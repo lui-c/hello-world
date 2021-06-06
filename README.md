@@ -1,2 +1,4 @@
 # hello-world
-test
+
+
+hi, im lui and im a begginer to programming
