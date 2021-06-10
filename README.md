@@ -1,2 +1,3 @@
 # hello-world
-test
+
+Hi im Lui and this is GitHUB
